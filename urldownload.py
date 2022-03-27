@@ -42,7 +42,7 @@ def main():
     updater.bot.setWebhook('https://urldownloaderbothackd.herokuapp.com/' + TOKEN)
     updater.idle()
 
-PORT = int(os.environ.get('PORT', 5000))
+PORT = int(os.environ.get('PORT', 8443))
 
 if __name__ == '__main__':
     main()
