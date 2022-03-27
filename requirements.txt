@@ -10,7 +10,7 @@ aioresponses==0.7.2
 aiorpcX==0.18.5
 aiosqlite==0.16.1
 ajpy==0.0.4
-alembic==1.4.3.dev0
+alembic==1.4.3
 aniso8601==8.1.1
 antlr4-python3-runtime==4.9.1
 anyjson==0.3.3
